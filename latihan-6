@@ -1,0 +1,32 @@
+scraping -> mendapatkan data dari website
+otomasi
+
+guna: 
+
+1. data mining
+2. social media analytics
+
+web:
+
+1. twitter
+2. instagram
+
+gunakan:
+
+1. BeautifulSoup
+2. requests
+
+https://projects.co.id/public/browse_projects/listing?search=Web+Scrapping
+
+pip install requests
+pip install beautifulsoup4
+pip install -U pip --user
+
+parsing --> mengambil data dari teks agar terstruktur, 
+
+simpan data di dictionary
+-------------------------
+
+{"nama_project": "a", "published": 12-01-2020, "budget": "Rp. 5,000,000"}
+
+dictionary -> {key:value}
